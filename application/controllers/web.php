@@ -26,4 +26,9 @@ class Web extends CI_Controller {
 		return $this->load->view('result', $data, true);
 	}
 
+	public function contoh($value='')
+	{
+		echo "contoh";
+	}
+
 }
