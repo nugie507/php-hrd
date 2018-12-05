@@ -1,7 +1,7 @@
 <div class="row notif">
 		<div class="col-md-12 col-sm-12">
 			<div class="alert alert-success">
-				<h3 style="margin:0;">Terimakasih atas partisipasinya :)</h3>
+				<h3 style="margin:0;">Terimakasih atas partisipasinya ya sampai jumpa :)</h3>
 			</div>
 		</div>
 	</div>
@@ -18,7 +18,7 @@
 		    <div class="thumbnail">
 		      <a href="javascript:void();" onclick="get(2);"><img src="<?php echo base_url() ?>assets/img/cukup_puas.png" width="150" alt="Cukup Puas"></a>
 		      <div class="caption">
-		        <h4>Cukup Puas</h4>
+		        <h4>Cukup Puas euy</h4>
 		      </div>
 		    </div>
 		</div>
@@ -26,7 +26,7 @@
 		    <div class="thumbnail">
 		      <a href="javascript:void();" onclick="get(3);"><img src="<?php echo base_url() ?>assets/img/cukup_puas.png" width="150" alt="Cukup Puas"></a>
 		      <div class="caption">
-		        <h4>Tidak Puas</h4>
+		        <h4>Tidak Puas sama sekali</h4>
 		      </div>
 		    </div>
 		</div>
