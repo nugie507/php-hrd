@@ -37,6 +37,9 @@
 		      <div class="caption">
 		        <h4>Ini Link Rizky Said</h4>
 		      </div>
+		      <div class="caption">
+		        <h4>Ini Link AKUH dianRiki</h4>
+		      </div>
 		    </div>
 		</div>
 
